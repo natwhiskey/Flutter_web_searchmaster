@@ -18,5 +18,5 @@ Run Command
 
 # Run Webrowser
 Run Comand
--flutter run -d chrome
+flutter run -d chrome --no-sound-null-safety --web-renderer=html
 
